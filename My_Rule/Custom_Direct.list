@@ -1,0 +1,14 @@
+# NAME: Custom_Direct
+
+# ImmortalWrt 在线更新服务
+# DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+# ImmortalWrt 软件仓库
+# DOMAIN-SUFFIX,immortalwrt.org
+# DOMAIN-SUFFIX,vsean.net
+# GitHub 反代 CDN
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,gh-proxy.com
+# yinliu
+DOMAIN-SUFFIX,xxxh.de
+DOMAIN-SUFFIX,union-optech.com
